@@ -1,0 +1,7 @@
+to start backend type
+npm run start
+
+to start the database service
+click the start_database.bat
+
+then open a cmd then type mongo to enter cli interactive mongo db
